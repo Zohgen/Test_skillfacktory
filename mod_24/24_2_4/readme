@@ -1,2 +1,0 @@
-1.Должна быть установлена библиотека Pytest
-2.Стандартный запуск тестов - Pytest(в настройках проекта Settings/Tools/Python Integrated Tools в поле Testing поставить Pytest)
