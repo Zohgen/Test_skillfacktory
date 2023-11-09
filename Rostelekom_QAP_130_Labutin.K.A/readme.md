@@ -34,3 +34,4 @@ webdriver использовался для имитации работы бра
 pytest использовался для работы автотестов
 
 P.S. из-за того что у Ростелекома стоит блокировка быстрых запросов, для успешного прохождения всех тестов(подряд) нужно заменить pytest.driver.implicitly_wait(5) на time.sleep(5)
+в файле c тест-кейсами(https://docs.google.com/spreadsheets/d/12ho3eQSYIm7RYuMgPvc_K635XUkgTI7M2-X77AJLpgU/edit?usp=drive_link) снизу вкладки для телефона, почты, логина и лс
